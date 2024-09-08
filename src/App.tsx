@@ -18,7 +18,7 @@ const App = () => {
             className="w-full h-full object-cover"
           />
           {/* Announcements section positioned on top of the image */}
-          <div className="absolute inset-0 flex ml-24 mt-12">
+          <div className="absolute inset-0 flex ml-24 mt-12 shadow-lg">
             <div className="bg-white p-6 rounded-lg w-2/5 h-5/6 border">
               <Announcements />
             </div>

@@ -6,8 +6,8 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-lg font-bold mb-4">Contact Us</h3>
-            <p>123 Government Street</p>
-            <p>Capital City, 12345</p>
+            <p>Manipal University Jaipur</p>
+            <p>Bagru, Rajasthan</p>
             <p>Phone: (123) 456-7890</p>
             <p>Email: info@government.gov</p>
           </div>
@@ -31,7 +31,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-8 text-center">
-          <p>&copy; 2024 Government Portal. All rights reserved.</p>
+          <p>&copy; 2024 Vibhag Setu. All rights reserved.</p>
         </div>
       </div>
     </footer>
